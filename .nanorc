@@ -1,0 +1,10 @@
+set linenumbers
+set numbercolor cyan
+set autoindent
+set emptyline
+set keycolor cyan
+set minibar
+set minicolor mint
+set tabsize 4
+set constantshow
+set selectedcolor black,white
